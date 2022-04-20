@@ -1,7 +1,7 @@
 # Trackman-Code
 Code examples from 3 different projects:
-Masters thesis
-physiological modeling course
+Masters thesis,
+physiological modeling course,
 advanced signal processing course
 
 All code is MATLAB
