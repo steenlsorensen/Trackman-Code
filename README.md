@@ -1,4 +1,4 @@
-# Trackman-Code
+# Trackman-Interview-Code
 Code examples from 3 different projects:
 Masters thesis,
 physiological modeling course,
