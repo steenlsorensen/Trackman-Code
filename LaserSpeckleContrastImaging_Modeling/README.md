@@ -1,4 +1,4 @@
-Part of a project in Physiological Modeling where i modeled a Laser Speckle Contrast Imaging (LSCI) system
+Part of a project in Physiological Modeling where i modeled a Laser Speckle Contrast Imaging (LSCI) system.
 Report from project is in Report_Noise_in_laser_speckle_contrast_imagining.pdf
 
 Main files
@@ -10,4 +10,5 @@ intensityvcontrast.m - calculates and plots intensity and contrast for different
 shotnoisevcontrast.m - calculates and plots resulting contrast in LSCI images based on amount of noise in camerasystem and different types of blood flow.
 
 Data folder contains data used by the main files
+
 functions folder contains all the funtions used to make calculations of contrast, intensity, noise etc. as well as plot results
